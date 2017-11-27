@@ -1,3 +1,8 @@
+'''
+This is a Web Crawler for Incontinence's NAFC Website - A Care giving website where users post about Incontinence
+NAFC Caregiver's Website ---- http://forum.nafc.org/
+'''
+
 import scrapy
 import selenium
 import time
